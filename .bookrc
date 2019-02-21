@@ -1,0 +1,11 @@
+{
+  "name": "MY-AWESOME-BOOK-TITLE",
+  "type": "comics",
+  "has_page_numbers": false,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  }
+}
